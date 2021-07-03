@@ -8,8 +8,8 @@ body {
 .profile-pic {
   padding: 2rem 0 1rem;
   margin: 0 ;
-  height: 200px;
-  width: 200px;
+  height: 13rem;
+  width: 13rem;
   border-radius: 50%;
   align-items: center;
 }
@@ -18,7 +18,7 @@ h1 {
   text-align: center;
   color: black;
   font-size: 5.635rem;
-  margin: 50px auto 0 auto;
+  margin: 3.2rem auto 0 auto;
 }
 
 h2 {
@@ -33,24 +33,24 @@ h3 {
 
 .top-container {
   background-color: #71C9CE;
-  padding: 50px;
+  padding: 3.1rem;
   position: relative;
 }
 
 .middle-container {
   background-color: #A6E3E9;
-  padding: 15px;
+  padding: 1rem;
 }
 .intern {
   width: 35%;
   margin: auto;
   line-height: 2;
-  padding-bottom: 20px;
+  padding-bottom: 1.2rem;
 }
 .bottom-container {
   background-color: #66BFBF;
-  padding: 50px 0 20px;
-  margin-top: -18px;
+  padding: 3.5rem 0 1.6rem;
+  margin-top: -1.2rem;
   color: #95E1D3;
   word-spacing: normal;
 }
@@ -63,11 +63,11 @@ h3 {
   background-image: linear-gradient(to bottom, #11cdd4, #11999e);
   -webkit-border-radius: 8;
   -moz-border-radius: 8;
-  border-radius: 8px;
+  border-radius: 0.5rem;
   font-family: 'Montserrat', sans-serif;
   color: #ffffff;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 0.625rem 1.25rem 0.625rem 1.25rem;
   text-decoration: none;
 }
 
@@ -80,47 +80,47 @@ h3 {
 }
 
 .main {
-  background-size: 40px 40px;
-  height: 400px;
-  margin-left: 40px;
-  width: 400px;
-  margin-top: 10px;
+  background-size: 2.5rem 2.5rem;
+  height: 25rem;
+  margin-left: 2.5rem;
+  width: 25rem;
+  margin-top: 0.625rem;
 }
 
 .cloud1 {
   margin-top: auto;
   position: absolute;
-  right: 100px;
-  top: 60px;
+  right: 12.5rem;
+  top: 3.75rem;
 }
 
 .cloud2 {
   margin-top: 3rem;
-  bottom: 550px;
-  left: 150px;
+  bottom: 34.380rem;
+  left: 3.3rem;
   position: absolute;
 }
 .cloud3 {
   margin-top: 3rem;
-  bottom: 350px;
-  right: 150px;
+  bottom: 7.6rem;
+  right: 3.3rem;
   position: absolute;
 }
 .cloud4 {
   margin-top: 3rem;
-  bottom: 350px;
-  left: 250px;
+  bottom: 87rem;
+  left: 5.45rem;
   position: absolute;
 }
 .hedwig {
-  height: 100px;
-  width: 100px;
+  height: 12.5rem;
+  width: 12.5rem;
 }
 
 .p {
   font-family: adobe-garamond-pro, HelveticaNeue-Light, "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
   font-weight: 300;
-  margin: 0 0 10px;
+  margin: 0 0 0.625rem;
   line-height: 2;
 }
 
@@ -140,14 +140,14 @@ h3 {
   width: 41%;
   margin: auto;
   line-height: 2;
-  padding-bottom: 10px;
+  padding-bottom: 0.625rem;
 }
 
 .easy {
   width: 41%;
   margin: auto;
   line-height: 2;
-  padding-bottom: 10px;
+  padding-bottom: 0.625rem;
 }
 
 .learning {
@@ -159,18 +159,18 @@ h3 {
 .skills-image1 {
   width: 25%;
   float: left;
-  margin-right: 30px;
+  margin-right: 1.9rem;
 }
 
 .skills-image2 {
   float: right;
-  margin-left: 30px;
+  margin-left: 1.9rem;
   width: 25%;
 }
 
 .skill-row {
   width: 50%;
-  margin: 60px auto 60px auto;
+  margin: 3.75rem auto 3.75rem auto;
   line-height: 200%;
   text-align: left;
 }
@@ -179,5 +179,6 @@ hr {
   border: dotted #EAF6F6 6px;
   border-bottom: none;
   width: 4%;
-  margin: 100px auto;
+  margin: 12.5rem auto;
 }
+
