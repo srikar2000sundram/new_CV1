@@ -147,9 +147,8 @@ h3 {
 }
 
 .learning {
-  width: 82%;
-  margin-right: auto;
-  margin-left: auto;
+  width: 52%;
+  margin: auto;
   font-size: auto;
   font-weight: 500;
 }
