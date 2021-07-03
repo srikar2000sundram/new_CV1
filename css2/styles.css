@@ -39,7 +39,8 @@ h3 {
 
 .middle-container {
   background-color: #A6E3E9;
-  padding: 1rem;
+  padding: 2rem;
+  margin-bottom: -1rem;
 }
 .intern {
   width: 35%;
@@ -50,7 +51,7 @@ h3 {
 .bottom-container {
   background-color: #66BFBF;
   padding: 3.5rem 0 1.6rem;
-  margin-top: -1.2rem;
+  margin-top: -2rem;
   color: #95E1D3;
   word-spacing: normal;
 }
@@ -137,24 +138,26 @@ h3 {
 
 
 .learning {
-    width: 92%;
-    margin: auto;
-    line-height: 2;
-    padding-bottom: 0.625rem;
-    font-weight: 500;
-}
-
-.easy {
   width: 41%;
   margin: auto;
   line-height: 2;
   padding-bottom: 0.625rem;
 }
 
+.easy {
+  width: 92%;
+  margin: auto;
+  line-height: 2;
+  padding-bottom: 0.625rem;
+    font-weight: 500;
+}
+
 .learning {
+  width: 92%;
   margin-right: auto;
   margin-left: auto;
   font-size: auto;
+  font-weight: 500;
 }
 
 .skills-image1 {
@@ -170,10 +173,10 @@ h3 {
 }
 
 .skill-row {
-    width: 82%;
-    margin: 3.75rem auto 3.75rem auto;
-    line-height: 200%;
-    text-align: left;
+  width: 50%;
+  margin: 3.75rem auto 3.75rem auto;
+  line-height: 150%;
+  text-align: left;
 }
 
 hr {
@@ -182,4 +185,3 @@ hr {
   width: 4%;
   margin: 12.5rem auto;
 }
-
