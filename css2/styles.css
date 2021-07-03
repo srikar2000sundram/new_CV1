@@ -108,17 +108,18 @@ h3 {
 }
 
 .cloud3 {
-  margin-top: 3rem;
-  bottom: 7.6rem;
-  right: 3.3rem;
-  position: absolute;
+    margin-top: 3rem;
+    right: 3.3rem;
+    top: 15rem;
+    position: absolute;
 }
 
 .cloud4 {
-  margin-top: 3rem;
-  bottom: 87rem;
-  left: 5.45rem;
-  position: absolute;
+    margin-top: 3rem;
+    /* bottom: 87rem; */
+    left: 5.45rem;
+    position: absolute;
+    top: 15rem;
 }
 
 .hedwig {
