@@ -5,14 +5,16 @@ body {
   color: black;
   font-size: 100%;
 }
+
 .profile-pic {
   padding: 2rem 0 1rem;
-  margin: 0 ;
+  margin: 0;
   height: 13rem;
   width: 13rem;
   border-radius: 50%;
   align-items: center;
 }
+
 h1 {
   font-family: 'Sacramento', cursive;
   text-align: center;
@@ -42,12 +44,14 @@ h3 {
   padding: 2rem;
   margin-bottom: -1rem;
 }
+
 .intern {
   width: 35%;
   margin: auto;
   line-height: 2;
   padding-bottom: 1.2rem;
 }
+
 .bottom-container {
   background-color: #66BFBF;
   padding: 3.5rem 0 1.6rem;
@@ -55,7 +59,8 @@ h3 {
   color: #95E1D3;
   word-spacing: normal;
 }
-.copywrite{
+
+.copywrite {
   color: white;
 }
 
@@ -101,18 +106,21 @@ h3 {
   left: 3.3rem;
   position: absolute;
 }
+
 .cloud3 {
   margin-top: 3rem;
   bottom: 7.6rem;
   right: 3.3rem;
   position: absolute;
 }
+
 .cloud4 {
   margin-top: 3rem;
   bottom: 87rem;
   left: 5.45rem;
   position: absolute;
 }
+
 .hedwig {
   height: 12.5rem;
   width: 12.5rem;
@@ -135,20 +143,27 @@ h3 {
   line-height: 2;
 }
 
-
-
-
 .easy {
   width: 92%;
   margin: auto;
   line-height: 2;
   padding-bottom: 0.625rem;
-    font-weight: 500;
+  font-weight: 500;
+}
+
+.medium {
+  width: 92%;
+  margin: auto;
+  line-height: 2;
+  padding-bottom: 0.625rem;
+  font-weight: 500;
+  text-align: left;
 }
 
 .learning {
-  width: 48%;
-  margin: auto;
+  width: 92%;
+  margin-right: auto;
+  margin-left: auto;
   font-size: auto;
   font-weight: 500;
 }
