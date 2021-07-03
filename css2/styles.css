@@ -108,7 +108,8 @@ h3 {
 }
 
 .cloud3 {
-    margin-top: 3rem;
+    margin-top: 8rem;
+    /* bottom: 7.6rem; */
     right: 3.3rem;
     top: 15rem;
     position: absolute;
